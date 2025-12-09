@@ -93,7 +93,7 @@ Once the app is running, you will see a form asking for patient details:
     *   ⚠️ **High Risk of Heart Disease** (with probability %)
     *   ✅ **Normal - Low Risk** (with probability %)
 
-<video src="https://github.com/user-attachments/assets/f6f8d657-3d62-4c2d-a7ef-d51138d2917d" controls width="700"></video>
+<video src="https://github.com/user-attachments/assets/744792c6-0926-452b-b8a9-3b723ae2f938" controls width="700"></video>
 
 ## 📝 Conclusion
 This project demonstrates an end-to-end Machine Learning workflow, from data processing to model deployment, providing a practical tool for early health risk assessment.
